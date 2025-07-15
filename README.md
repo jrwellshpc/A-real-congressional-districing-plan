@@ -8,10 +8,11 @@ pip install geopandas shapely networkx matplotlib
 Add shapefile paths, test on a small region (e.g. a single state), tune the weights.
 
 **Variables**  
-Parameter	         Description	                                 Typical Range
-dist_weight        Compactness factor (e.g., centroid distance)  1.0 – 10.0
-split_penalty	     Penalty for crossing county/city lines	       5.0 – 50.0
-pop_slack_percent  Allowed deviation from ideal population	     0.5% – 1.0%
+|Parameter|Description|Typical Range|
+|-----------------|-----------|-------------|
+|dist_weight|Compactness factor (e.g., centroid distance)|1.0 – 10.0|
+|split_penalty|Penalty for crossing county/city lines|5.0 – 50.0|
+|pop_slack_percent|Allowed deviation from ideal population|0.5% – 1.0%|
 
 **Example**  
 score = dist_weight * dist + split_penalty * (county_split or city_split)
