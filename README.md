@@ -18,7 +18,7 @@ score = dist_weight * dist + split_penalty * (county_split or city_split)
 
 #Policy Brief: A Simple, Fair, and Nonpartisan Redistricting Algorithm for the U.S.
 
-##What’s the Problem?
+**What’s the Problem?**
 Every 10 years, political maps are redrawn—and too often manipulated. Gerrymandering lets politicians choose their voters instead of the other way around.
 
 ##What’s the Solution?
