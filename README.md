@@ -16,6 +16,7 @@ pop_slack_percent  Allowed deviation from ideal population	     0.5% – 1.0%
 **Example**  
 score = dist_weight * dist + split_penalty * (county_split or city_split)
 
+```
 **Policy Brief**  
 A Simple, Fair, and Nonpartisan Redistricting Algorithm for the U.S.
 
@@ -41,6 +42,7 @@ Check: Ensure all population targets are met, without political data.
 It ignores partisanship completely.
 It’s transparent—anyone can run it and verify the results.
 It produces many possible fair maps, not just one.
+```
 
 **What You Can Do**  
 Ask your state to adopt algorithmic redistricting laws.
