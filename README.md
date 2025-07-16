@@ -1,4 +1,4 @@
-# A-real-congressional-districing-plan
+# A-real-congressional-redistricting-plan
 Let's just crowd source this. I'm starting with code written by ChatGPT and we can work from there.
 
 **Python Pre-reqs**  
