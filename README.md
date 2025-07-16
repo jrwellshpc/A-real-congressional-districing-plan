@@ -47,4 +47,4 @@ It produces many possible fair maps, not just one.
 Ask your state to adopt algorithmic redistricting laws.
 Support independent redistricting commissions.
 Use open-source tools to test your own state’s fairness.
-For demos and code, visit: https://github.com/jrwellshpc/A-real-congressional-districing-plan
+For demos and code, visit: https://github.com/jrwellshpc/A-real-congressional-redistricting-plan
